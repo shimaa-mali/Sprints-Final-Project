@@ -23,3 +23,6 @@ Storage:
 
 LocalStorage (for cart & authentication persistence)
 3legant-ecommerce/
+
+video link 
+https://drive.google.com/file/d/1Nagog_4BC9cJ3IlDYNJSVNidSbF4xxnS/view?usp=sharing
